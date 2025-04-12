@@ -1,8 +1,16 @@
 ## HELLO
 my name is LEE Hyun woo
+
+
 i am 23 years old
+
+
 i am student of Yeong nam university
+
+
 my major is engineering computer
+
+
 i am learning c++ and python
 
 <!--

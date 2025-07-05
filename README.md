@@ -1,4 +1,4 @@
-h1 align="center">👋 Hello, I'm Hyunwoo Lee!</h1>
+👋 Hello, I'm Hyunwoo Lee!</h1>
 <p align="center">
   📚 Computer Science Student <br>
   🌱 Learning C++, Java, and Web Development
@@ -6,9 +6,9 @@ h1 align="center">👋 Hello, I'm Hyunwoo Lee!</h1>
 
 ### 💼 About Me
 - 🎓 I'm currently a sophomore at university (2nd year)
-- 🛠️ I learned <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>  
+- 🛠️ I learned <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> 
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"/>
+ 
 
 
 ### career

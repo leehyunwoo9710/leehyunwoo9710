@@ -1,17 +1,21 @@
-## HELLO
-my name is LEE Hyun woo
+h1 align="center">👋 Hello, I'm Hyunwoo Lee!</h1>
+<p align="center">
+  📚 Computer Science Student <br>
+  🌱 Learning C++, Java, and Web Development
+</p>
+
+### 💼 About Me
+- 🎓 I'm currently a sophomore at university (2nd year)
+- 🛠️ I learned <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>  
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"/>
 
 
-i am 23 years old
+### career
+-🪖I completed my military service as a sergeant in the Republic of Korea Army.
 
 
-i am student of Yeong nam university
 
-
-my major is engineering computer
-
-
-i am learning c++ and python
 
 <!--
 **leehyunwoo9710/leehyunwoo9710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
